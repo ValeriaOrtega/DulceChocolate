@@ -13,7 +13,7 @@ namespace PruebaWeb.Controllers
             return View();
         }
 
-        public ActionResult About()
+        public ActionResult Postres()
         {
             ViewBag.Message = "Your application description page.";
 
