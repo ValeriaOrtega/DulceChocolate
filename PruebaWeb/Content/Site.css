@@ -48,5 +48,12 @@ textarea {
 {
     height:250px;
     width:500px;
+    border-radius:.5em;
+}
+
+.text-center
+{
+    margin-top:1em;
+    margin-bottom:1em;
 }
 
