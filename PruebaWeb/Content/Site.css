@@ -38,3 +38,15 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.card
+{
+    height:515px;
+}
+
+.img-thumbnail
+{
+    height:250px;
+    width:500px;
+}
+
